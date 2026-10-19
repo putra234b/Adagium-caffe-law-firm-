@@ -1,0 +1,6 @@
+{
+  "name": "ADAGIUM — Coffee & Law Firm",
+  "description": "Website bisnis premium untuk ADAGIUM — Coffee & Law Firm. Menghadirkan kopi istimewa dan ruang percakapan yang bermakna dalam nuansa elegan dan profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

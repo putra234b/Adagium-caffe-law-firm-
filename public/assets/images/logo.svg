@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+  <!-- Pure White Background -->
+  <rect width="400" height="400" fill="#FFFFFF"/>
+  <!-- Thin Outer Dark Brown Border -->
+  <rect x="12" y="12" width="376" height="376" fill="none" stroke="#39251D" stroke-width="2.5"/>
+
+  <!-- Golden Yellow Scale & Pillar Assembly -->
+  <!-- Top Horizontal Beam with circular finials -->
+  <line x1="68" y1="70" x2="332" y2="70" stroke="#E5BE38" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="68" cy="70" r="10" fill="#E5BE38"/>
+  <circle cx="332" cy="70" r="10" fill="#E5BE38"/>
+  
+  <!-- Left Scale Pan Suspended -->
+  <line x1="110" y1="76" x2="72" y2="135" stroke="#E5BE38" stroke-width="4.5" stroke-linecap="round"/>
+  <line x1="110" y1="76" x2="148" y2="135" stroke="#E5BE38" stroke-width="4.5" stroke-linecap="round"/>
+  <line x1="64" y1="135" x2="156" y2="135" stroke="#E5BE38" stroke-width="6" stroke-linecap="round"/>
+  <line x1="60" y1="155" x2="160" y2="155" stroke="#E5BE38" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Right Scale Pan Suspended -->
+  <line x1="290" y1="76" x2="252" y2="135" stroke="#E5BE38" stroke-width="4.5" stroke-linecap="round"/>
+  <line x1="290" y1="76" x2="328" y2="135" stroke="#E5BE38" stroke-width="4.5" stroke-linecap="round"/>
+  <line x1="244" y1="135" x2="336" y2="135" stroke="#E5BE38" stroke-width="6" stroke-linecap="round"/>
+  <line x1="240" y1="155" x2="340" y2="155" stroke="#E5BE38" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Central Monogram Architectural Capital / 'A' & 'M' Geometric Pillar -->
+  <!-- Outer vertical prongs -->
+  <path d="M152 90 L152 235 L174 250 L174 90 Z" fill="#E5BE38"/>
+  <path d="M248 90 L248 235 L226 250 L226 90 Z" fill="#E5BE38"/>
+  <!-- Middle chevron / stylized M & A apex -->
+  <path d="M174 90 L200 135 L226 90 L200 160 Z" fill="#E5BE38"/>
+  <!-- Central pillar arch -->
+  <rect x="189" y="152" width="22" height="96" fill="#E5BE38"/>
+  <path d="M174 248 L200 282 L226 248 Z" fill="#E5BE38"/>
+
+  <!-- Brand Typography -->
+  <!-- ADAGIUM in bold geometric uppercase -->
+  <text x="200" y="325" text-anchor="middle" font-family="'Plus Jakarta Sans', 'Arial Black', sans-serif" font-weight="900" font-size="44" fill="#39251D" letter-spacing="4">ADAGIUM</text>
+  
+  <!-- —COFFEE & LAW FIRM— in serif caps with em-dashes -->
+  <text x="200" y="360" text-anchor="middle" font-family="'Cormorant Garamond', 'Playfair Display', Georgia, serif" font-weight="700" font-size="21" fill="#39251D" letter-spacing="3.5">—COFFEE &amp; LAW FIRM—</text>
+</svg>
